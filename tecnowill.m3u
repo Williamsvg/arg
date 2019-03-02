@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1, LISTAS ACTUALIZADAS www.tecnowill.xyz
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+#EXTINF:-1, LISTAS PRIVADAS y gratis  www.willytv.wordpress.com
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NOTICIAS ARGENTINA" tvg-logo="http://www.dazplayer.com/img_chh/24hs_nott_arg.png" group-title="ARGENTINA",24/7 NOTICIAS ARGENTINA
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/101
+#EXTINF:-1 tvg-id="" tvg-name="Adq. Nuestro Servicio Privado" tvg-logo="http://www.dazplayer.com/img_chh/24hs_nott_arg.png" group-title="",Adq. Nuestro Servicio Privado
+http://162.255.86.122:25461/movie/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AIRE SANTA FE" tvg-logo="https://pbs.twimg.com/profile_images/1004818680847523840/fxdDSHAw_400x400.jpg" group-title="ARGENTINA",AIRE SANTA FE
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/339
+#EXTINF:-1 tvg-id="" tvg-name="ALIENTO TV HD" tvg-logo="https://1.bp.blogspot.com/-Ff3GXjtdHbA/WQetZ2XfhuI/AAAAAAAAFpk/Qjs08BnnIJIIyhyFNgZhLJyWaJYB5ZLEACLcB/s320/aliento_vision_us.png" group-title="RELIGIOSOS",ALIENTO TV HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/424
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA CHANNEL" tvg-logo="https://www.oneindia.com/img/2017/07/aljazeera-01-1498886602.jpg" group-title="INTERNACIONALES",ALJAZEERA CHANNEL
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/244
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - 13 MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="ARGENTINA",ARGENTINA - 13 MAX HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/464
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - 5TV CORRIENTES SD" tvg-logo="https://1.bp.blogspot.com/-37EY7taXMW4/WeFcLyQ5tLI/AAAAAAAAAt0/vNeLYjHNBM0gEkgLGPDzQzZl6UwujZyEACLcBGAs//5tv-Corrientes.png" group-title="ARGENTINA",ARGENTINA - 5TV CORRIENTES SD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/70
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - AMERICA TV HD ES" tvg-logo="https://i.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",ARGENTINA - AMERICA TV HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/309
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - C5N HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",ARGENTINA - C5N HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/779
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 26 HD" tvg-logo="http://ytimg.googleusercontent.com/vi/Jo5YEc7DpfI/hqdefault.jpg" group-title="ARGENTINA",ARGENTINA - CANAL 26 HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/75
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 4 POSADAS" tvg-logo="http://www.radiografica.org.ar/wp-content/uploads/2015/09/canal4posadas.jpg" group-title="ARGENTINA",ARGENTINA - CANAL 4 POSADAS
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/466
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 6 SAN RAFAEL SD" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2023807.jpg" group-title="ARGENTINA",ARGENTINA - CANAL 6 SAN RAFAEL SD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/523
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 8 HD CATAMARCA" tvg-logo="http://www.8digital.com.ar/new/wp-content/uploads/2015/01/canal-8-890x395_c.jpg" group-title="ARGENTINA",ARGENTINA - CANAL 8 HD CATAMARCA
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/579
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CPE TV LA PAMPA HD" tvg-logo="http://revistafibra.info/wp-content/uploads/2014/10/cpe.png" group-title="ARGENTINA",ARGENTINA - CPE TV LA PAMPA HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/574
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - EL SIETE HD ES" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/11/23380124_10159942043045221_7800227664856652877_n.png" group-title="ARGENTINA",ARGENTINA - EL SIETE HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/793
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - KZO FHD" tvg-logo="https://www.totalmedios.com/img/noticias/2017/06/595248fb7f0bd__838x390.jpg" group-title="ARGENTINA",ARGENTINA - KZO FHD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/517
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - LA NACION HD ES" tvg-logo="http://www.portalpublicitario.com/wp-content/uploads/2017/11/Ln.jpg" group-title="ARGENTINA",ARGENTINA - LA NACION HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/777
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - LITUS HD ES" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="ARGENTINA",ARGENTINA - LITUS HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/63
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - ORBE 21 HD ES" tvg-logo="http://elpoderdelespiritu.com/channels/canalorbe21.png" group-title="ARGENTINA",ARGENTINA - ORBE 21 HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/855
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TEC TV HD" tvg-logo="http://www.miclubtecnologico.com.ar/blog/wp-content/uploads/2012/05/Logo.jpg" group-title="ARGENTINA",ARGENTINA - TEC TV HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/786
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELEMAX HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",ARGENTINA - TELEMAX HD ES
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/427
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELEVISION PUBLICA" tvg-logo="https://2.bp.blogspot.com/-08SVVAgvoBw/U7JCRB9hpVI/AAAAAAAABa4/Z3WcvHjmSTg/s1600/canal+siete+7+en+vivo+online+on+line+2.png" group-title="ARGENTINA",ARGENTINA - TELEVISION PUBLICA
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/804
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TLX HD" tvg-logo="http://www.dazplayer.com/img_chh/tlx_arg.png" group-title="ARGENTINA",ARGENTINA - TLX HD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/73
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TODO NOTICIAS FHD" tvg-logo="https://sincensura.com.ar/wp-content/uploads/2018/01/tn-logo.png" group-title="ARGENTINA",ARGENTINA - TODO NOTICIAS FHD
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/783
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TVP HD CANAL 11" tvg-logo="https://tvpublicafueguina.com.ar/wp-content/uploads/2018/04/1027X514-en-vivo-660x365.jpg" group-title="ARGENTINA",ARGENTINA - TVP HD CANAL 11
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/55
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="http://www.dazplayer.com/img_chh/argentinisima_satelital.png" group-title="ARGENTINA",ARGENTINISIMA SATELITAL
+http://162.255.86.122:25461/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/268
